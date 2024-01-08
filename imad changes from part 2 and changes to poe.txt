@@ -1,0 +1,25 @@
+updates to part 2 
+
+-code was updated to meet all requierments of the poe.
+-the errors were removed.
+-app can add up to 10 numbers.
+-app can display the numbers entered.
+-app can calulate the average of the numbers entered. 
+-app can produce the min and max of the numbers entered.
+-an array was added on to help store the numbers entered which allows the app to calculate the average of the numbers.
+- the add button was made functional to make sure the app can add the numbers entered.
+- the textviews were made functional to be able to view and enter numbers in.
+-text view was added to view the average of the entered numbers. 
+-textview was added to view the min and max of the numbers entered. 
+- button to calulate the average of the entered numbers was added. 
+-button to calculate the min and max of the numbers entered was added. 
+- the app is able to run on the emulator and perform the required functions.
+
+updates to poe
+-fixed all buttons so that they carry out their requiered functions.
+-added an array to save all the numbers entered.
+-added an array to save all the numbers entered.
+-improved the layout of the display screen.
+- part of the code was in the wrong place so it was put in the correct place to make sure all the buttons worked.
+-changed from constrait layout to linear layout.
+
